@@ -1,0 +1,6 @@
+C:\Users\xillo\source\repos\Tick Tack Toe 2\Tick Tack Toe 2\obj\Debug\Tick Tack Toe 2.csprojAssemblyReference.cache
+C:\Users\xillo\source\repos\Tick Tack Toe 2\Tick Tack Toe 2\bin\Debug\Tick Tack Toe 2.exe.config
+C:\Users\xillo\source\repos\Tick Tack Toe 2\Tick Tack Toe 2\bin\Debug\Tick Tack Toe 2.exe
+C:\Users\xillo\source\repos\Tick Tack Toe 2\Tick Tack Toe 2\bin\Debug\Tick Tack Toe 2.pdb
+C:\Users\xillo\source\repos\Tick Tack Toe 2\Tick Tack Toe 2\obj\Debug\Tick Tack Toe 2.exe
+C:\Users\xillo\source\repos\Tick Tack Toe 2\Tick Tack Toe 2\obj\Debug\Tick Tack Toe 2.pdb
